@@ -1,7 +1,7 @@
 git clone:it clone the reposetary
 git add:it track the file
 git remote -v can locate the origin of file that is downloaded
-touch :can create file in git reposetary in ubuntu
+git status :used to check the weater any file in a repo. is tracked or not or some new changes is done so that it ask user to commit those changes
 git commit: can commit the changes along with the message
 i have learned the basic command to use git like how to clone commit a file using ubuntu terminal also learned to create ssh key using ssh-keygen -t RSA 
 and then adding it to our git hub account and then copy the ssh key of a file bash shell using git clone then copying ssh adress of that file in our ubuntu terminal to basically clone that file after which we can do some changes and use git push command to push that edited repeositaryu to our account in between we also learned about how to track all untracked file using git add.
