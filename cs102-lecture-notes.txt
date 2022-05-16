@@ -1,1 +1,5 @@
-
+git clone:it clone the reposetary
+git add:it track the file
+git remote -v can locate the origin of file that is downloaded
+touch :can create file in git reposetary in ubuntu
+cat: can read the file that is being pulled fro git account
